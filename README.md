@@ -7,7 +7,7 @@
   - [*Lê Hoàng Khánh*](https://www.facebook.com/lehoangkhanh.1105) Data Science
   - [*Nguyễn Văn Bảo Sơn*](https://www.facebook.com/baoson.nguyenvan.1997) Data Science
 ## GIỚI THIỆU SẢN PHẨM
-- Death Market là ứng dụng giao dịch sàn thương mại điện tử mô hình C2C. Được phát triển và xây dựng bởi các thành viên trong nhóm Death Code, Sản phẩm được ra mắt vào tháng 9/2019 với mục tiêu hướng đến giúp người dùng tiết kiệm được thời gian tìm kiếm nhanh chống các sản phẩm phù hợp với bản thân, ngoài ra nhóm còn hướng đến xây dựng các nền tảng công nghệ hiện đại giúp cho thương mại điện tử nước nhà ngày càng lớn mạnh và phát triển.
+- Death Market là ứng dụng giao dịch sàn thương mại điện tử mô hình C2C. Được phát triển và xây dựng bởi các thành viên trong nhóm Death Code, Sản phẩm được ra mắt vào tháng 9/2019 với mục tiêu hướng đến giúp người dùng tiết kiệm được thời gian, tìm kiếm nhanh chống các sản phẩm phù hợp với bản thân, ngoài ra nhóm còn hướng đến xây dựng các nền tảng công nghệ hiện đại giúp cho thương mại điện tử nước nhà ngày càng lớn mạnh và phát triển.
 ## CÔNG NGHỆ SỬ DỤNG
   - Language: JavaScrip, Python, PHP.
   - Framework: Pandas, React Native, Laravel.
