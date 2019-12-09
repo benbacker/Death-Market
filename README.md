@@ -1,6 +1,5 @@
 # TÊN SẢN PHẨM: *ỨNG DỤNG SÀN GIAO DỊCH THƯƠNG MẠI ĐIỆN TỬ TÍCH HỢP HỆ THỐNG RECOMMENDER SYSTEM*
-## TÁC GIẢ:
-   ### Tên nhóm: *DEATH CODE*
+## TÁC GIẢ: *DEATH CODE TEAM*
    ### Thành viên nhóm:
    - [*Võ Nhật Bảo*](https://www.facebook.com/benbacker99er) Product Manager
   - [*Trương Văn Sơn*](https://www.facebook.com/truong.v.son) Product Manager
