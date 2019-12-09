@@ -21,17 +21,13 @@
  - Hệ điều hành IOS > 10
  - Có kết nối internet
  ## GIAO DIỆN CỦA ỨNG DỤNG
+  ### Logo
    ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-1.JPG?raw=true)
   ### Đăng nhập / Xác nhận
- - Đăng nhập
   ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-2.JPG?raw=true)
-  - Xác nhận
   ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-3.JPG?raw=true)
   ### Danh mục sản phẩm
-  - Danh sách các danh mục và sản phẩm liên quan
   ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-4.JPG?raw=true)
   ### Chi tiết sản phẩm
-  - Thông tin sản phẩm
   ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-5.JPG?raw=true)
-  - Thông tin người đăng
   ![alt text](https://github.com/benbacker/Death-Market/blob/master/Digital%20Wireframe/death-6.JPG?raw=true)
