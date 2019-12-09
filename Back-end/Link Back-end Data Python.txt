@@ -1,0 +1,3 @@
+Link1: https://colab.research.google.com/drive/1JkqTeRwrdMnPaqkACOWim5RwPRu0qVez?fbclid=IwAR36C2voe83AL_wM-YfXr3njtjestaHgsOPxiMlvnniesXUbYxO4K3q3wUE#scrollTo=K6EC-w28wIFC
+Link2: https://colab.research.google.com/drive/19paPF3gPUktvgh8PalTiDCZ6Cow8yC_B?fbclid=IwAR1Lrgjtbc5Ljv3PBFI4svtxhD5Rj-g1cp7-Cq4a6dCLhlZs9eQRkOM1HFM#scrollTo=xxyeIxLKXSTa
+Link3: https://colab.research.google.com/drive/16UZzrzqwhXLGF-cDspLueOqQNjIQna1_?fbclid=IwAR1ueKBPxP0gPlAq0QuzYY3izsmqL_jiEtF_9g5n7pBs3bqvWx7B_JvDs0E
