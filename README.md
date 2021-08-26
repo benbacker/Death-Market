@@ -2,7 +2,7 @@
 ## TÁC GIẢ: *DEATH CODE TEAM*
    ### Thành viên nhóm:
    - [*Võ Nhật Bảo*](https://www.facebook.com/benbacker99er) Product Manager
-  - [*Trương Văn Sơn*](https://www.facebook.com/truong.v.son) Product Manager
+  - [*Trương Văn Sơn*](https://www.facebook.com/truong.v.son) Product Designer
   - [*Bùi Mạnh Hiếu*](https://www.facebook.com/manhhieu.bui)       Front-end Developer
   - [*Lê Hoàng Khánh*](https://www.facebook.com/lehoangkhanh.1105) Data Science
   - [*Nguyễn Văn Bảo Sơn*](https://www.facebook.com/baoson.nguyenvan.1997) Data Science
